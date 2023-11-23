@@ -1,1 +1,2 @@
 # file
+NEW_TEXT
